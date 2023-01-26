@@ -19,8 +19,7 @@
 	lifeGrid[10][0] = '10 Years Old';
 	lifeGrid[20][0] = '20 Years Old';
 	lifeGrid[30][0] = '30 Years Old';
-	lifeGrid[40][0] = '40 Years Old';
-	lifeGrid[40][0] = '45 Years Old - Start Midlife Crisis';
+	lifeGrid[40][0] = '40 Years Old - Initiate Midlife Crisis';
 	lifeGrid[50][0] = '50 Years Old';
 	lifeGrid[60][0] = '60 Years Old';
 	lifeGrid[70][0] = '70 Years Old';
