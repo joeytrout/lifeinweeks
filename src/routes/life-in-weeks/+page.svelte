@@ -15,17 +15,17 @@
 		.fill('')
 		.map(() => Array(weeksPerYear).fill(''));
 
-	lifeGrid[0][0] = 'Birth';
+	lifeGrid[0][0] = 'Your Birth';
 	lifeGrid[10][0] = '10 Years Old';
 	lifeGrid[20][0] = '20 Years Old';
 	lifeGrid[30][0] = '30 Years Old';
-	lifeGrid[40][0] = '40 Years Old - Initiate Midlife Crisis';
+	lifeGrid[40][0] = '40 Years Old - Initiate midlife crisis';
 	lifeGrid[50][0] = '50 Years Old';
 	lifeGrid[60][0] = '60 Years Old';
 	lifeGrid[70][0] = '70 Years Old';
 	lifeGrid[80][0] = '80 Years Old';
-	lifeGrid[89][51] = 'Death';
-	lifeGrid[90][0] = 'Funeral';
+	lifeGrid[89][51] = 'Your Death';
+	lifeGrid[90][0] = 'Your Funeral';
 </script>
 
 <h1 class="heading">{eventName || 'Life in Weeks'}</h1>
